@@ -24,6 +24,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1r_G1kPt69vmEP_NF6IW1P4jpQz2NptJH/view?usp=sharing](https://drive.google.com/file/d/1r_G1kPt69vmEP_NF6IW1P4jpQz2NptJH/view?usp=sharing)
 
 - ⚡ Fun fact **I think i am funny and supportive with other**
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1663951855~exp=1663952455~hmac=be4272adea078d71d47a70001bde9f60d9b9ff9393ac2d74b9a8e093fb0a71a5" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
