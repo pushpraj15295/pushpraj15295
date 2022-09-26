@@ -19,8 +19,6 @@
 
 - 👨‍💻 All of my projects are available at [pushpraj15295.github.io](pushpraj15295.github.io)
 
-- 📝 I regularly write articles on [medium.com/@pushpraj15295](medium.com/@pushpraj15295)
-
 - 💬 Ask me about *Ask me about react*
 
 - 📫 How to reach me *pushpraj15295@gmail.com*
