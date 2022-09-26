@@ -1,7 +1,7 @@
 
- <img src="https://raw.githubusercontent.com/Aniket-bansal/Aniket-bansal/main/banner.png" width="100%" height="350px" marginLeft="40%"/>
+ <img src="https://raw.githubusercontent.com/Aniket-bansal/Aniket-bansal/main/banner.png" width="100%" height="300px" marginLeft="40%"/>
 <h1 align="center">Hi 👋, I'm Pushpraj Patel</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">A passionate full stack developer from India , going through the awesome journey of masai school to achieve my goals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpraj15295&label=Profile%20views&color=0e75b6&style=flat" alt="pushpraj15295" /> </p>
 
