@@ -9,21 +9,21 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushpraj15295" alt="pushpraj15295" /></a> </p>
 
 <img align="right" alt="Coding" width="500" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1663951855~exp=1663952455~hmac=be4272adea078d71d47a70001bde9f60d9b9ff9393ac2d74b9a8e093fb0a71a5" />
-- 🔭 I’m currently working on *I’m currently working on "React"*
+- 🔭 I’m currently working on *"React"*
 
-- 🌱 I’m currently learning *I’m currently learning MERN*
+- 🌱 I’m currently learning *MERN*
 
-- 👯 I’m looking to collaborate on *I’m looking to collaborate on React front-end or back-end work*
+- 👯 I’m looking to collaborate on *front-end or back-end work*
 
-- 🤝 I’m looking for help with *I’m looking for help with back-end related things*
+- 🤝 I’m looking for help with *back-end related things*
 
-- 👨‍💻 All of my projects are available at [pushpraj15295.github.io](pushpraj15295.github.io)
+- 👨‍💻 All of my projects are available at [pushpraj15295.github.io]
 
-- 💬 Ask me about *Ask me about react*
+- 💬 Ask me about *react*
 
 - 📫 How to reach me *pushpraj15295@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r_G1kPt69vmEP_NF6IW1P4jpQz2NptJH/view?usp=sharing](https://drive.google.com/file/d/1r_G1kPt69vmEP_NF6IW1P4jpQz2NptJH/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1r_G1kPt69vmEP_NF6IW1P4jpQz2NptJH/view?usp=sharing]
 
 - ⚡ Fun fact *I think i am funny and supportive with other*
 
