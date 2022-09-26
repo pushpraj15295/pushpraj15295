@@ -1,6 +1,5 @@
-<!-- ![MasterHead](https://raw.githubusercontent.com/Aniket-bansal/Aniket-bansal/main/WhatsApp%20Image%202022-09-23%20at%2010.34.13%20PM.jpeg)
- -->
- <img src="https://raw.githubusercontent.com/Aniket-bansal/Aniket-bansal/main/WhatsApp%20Image%202022-09-23%20at%2010.34.13%20PM.jpeg" width="100%" height="350px" marginLeft="40%"/>
+
+ <img src="https://raw.githubusercontent.com/Aniket-bansal/Aniket-bansal/main/banner.png" width="100%" height="350px" marginLeft="40%"/>
 <h1 align="center">Hi 👋, I'm Pushpraj Patel</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
@@ -30,7 +29,7 @@
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pushpraj-patel-4006ba18a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pushpraj-patel-4006ba18a/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/dashboard/home?workspace=d0d9dc9f-4086-4dd0-9a31-01d5966b2381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/home?workspace=d0d9dc9f-4086-4dd0-9a31-01d5966b2381" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left"><b>Languages and Tools:</b></h3>
