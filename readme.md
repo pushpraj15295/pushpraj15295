@@ -20,7 +20,7 @@
 
 - 💬 Ask me about *react*
 
-- 📫 How to reach me *pushpraj15295@gmail.com*
+- 📫 How to reach me *pushpraj150295@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1r_G1kPt69vmEP_NF6IW1P4jpQz2NptJH/view?usp=sharing]
 
