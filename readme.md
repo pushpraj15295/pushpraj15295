@@ -22,7 +22,7 @@ My adaptability and commitment to learning ensure a dynamic approach to projects
 - **Tools:**  Zira, Bitbucket, Git,GitHub, Postman, VS Code and codesandbox.
 
 ### 📈 GitHub Stats & lang.
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpraj15295&show_icons=true&theme=react&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpraj15295&show_icons=true&theme=react&hide_title=true) &nbsp;&nbsp;&nbsp;
 <img alt="raj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpraj15295&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ### 🛠️ Noteworthy Repositories
@@ -43,9 +43,5 @@ Feel free to drop an email at [ pushpraj150295@gmail.com ] for collaborations or
 
 
 <div>
- <br/>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpraj15295&show_icons=true&locale=en&layout=compact" alt="pushpraj15295" width="350px"/></p>
-<br/>
 <p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpraj15295&show_icons=true&locale=en" alt="pushpraj15295" width="350px" /> &nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpraj15295&" alt="pushpraj15295" width="350px" /></p>
 </div>
