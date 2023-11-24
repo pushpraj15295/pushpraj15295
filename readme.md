@@ -1,44 +1,50 @@
+## 👋 Hi there, I am Pushpraj.
 
- <img src="https://raw.githubusercontent.com/Aniket-bansal/Aniket-bansal/main/banner.png" width="100%" height="300px" marginLeft="40%"/>
-<h1 align="center">Hi 👋, I'm Pushpraj Patel </h1>
-<h3 align="center">A passionate full stack developer from India , going through the awesome journey of masai school to achieve my goals.</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=pushpraj15295&color=blueviolet)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpraj15295&label=Profile%20views&color=0e75b6&style=flat" alt="pushpraj15295" /> </p>
+### 🌟 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushpraj15295" alt="pushpraj15295" /></a> </p>
+As a Web Developer I built excellent design skills and robust logical abilities for web applications. My forte lies in delivering exceptional results on the client side, where my design skills shine. While my server-side proficiency is average, I am fully capable of handling tasks on both ends of the spectrum. I possess a keen readiness to delve into new technologies, always eager to expand my skill set and forward to using tech in large-scale projects. I thrive on tackling logical challenges and consider
+My adaptability and commitment to learning ensure a dynamic approach to projects, with the goal of achieving excellence across all facets of web development, approach with solid principles.
 
-<img align="right" alt="Coding" width="500" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1663951855~exp=1663952455~hmac=be4272adea078d71d47a70001bde9f60d9b9ff9393ac2d74b9a8e093fb0a71a5" />
-- 🔭 I’m currently working on *"React"*
 
-- 🌱 I’m currently learning *MERN*
 
-- 👯 I’m looking to collaborate on *front-end or back-end work*
+### 💻 Current Focus
+- 🌱 Mastering advanced CSS3, SCSS, and styled-components for config-driven UI.      Expert in HTML, from basic structures to dynamic website design.
+- 🚀 Enhancing user experiences with React, Redux and Redux-toolkit or NextJS.
+- 🛠️ Building RESTful APIs using Node.js,MongoDB and Express.
+- 📊 Exploring new technology to enhance web design along with robust debugging skills on live projects.
 
-- 🤝 I’m looking for help with *back-end related things*
+### 🚀 Technologies & Skills
+- **Frontend:** React, Redux,Redux Toolkit, HTML, CSS, JavaScript, NextJs
+- **UI-Libraries:** Chakra UI, Material-UI, Tailwind CSS, Bootstrap and Figma. 
+- **Backend:** Node.js, Express, MongoDB
+- **Tools:**  Zira, Bitbucket, Git,GitHub, Postman, VS Code and codesandbox.
 
-- 👨‍💻 All of my projects are available at [pushpraj15295.github.io]
+### 📈 GitHub Stats & lang.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpraj15295&show_icons=true&theme=react&hide_title=true)
+<img alt="raj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpraj15295&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-- 💬 Ask me about *react*
+### 🛠️ Noteworthy Repositories
+- [React Webpack Configuration](https://github.com/pushpraj15295/react-webpack-configuration): A React Project, in which you'll discover how to build your own React app using webpack 5 as the compiler along with essential packages..
+<!--- [Project Name](Link): Utilizing React and Redux for [brief description].-->
 
-- 📫 How to reach me *pushpraj150295@gmail.com*
+### 🌐 Connect with Me
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r_G1kPt69vmEP_NF6IW1P4jpQz2NptJH/view?usp=sharing]
-
-- ⚡ Fun fact *I think i am funny and supportive with other*
-
-<h3 align="left"><b>Connect with me:</b></h3>
-<p align="left">
 <a href="https://www.linkedin.com/in/pushpraj-patel-4006ba18a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pushpraj-patel-4006ba18a/" height="30" width="40" /></a>
+- Personal Website: <a href="https://pushpraj15295.github.io" target="_blank">Portfolio</a>
 
-</p>
 
-<h3 align="left"><b>Languages and Tools:</b></h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<br/><br/>
+### 📫 Contact Me
+Feel free to drop an email at [ pushpraj150295@gmail.com ] for collaborations or inquiries.
+
+### 🎓 Certifications
+- [Full Stack MERN Developer](https://drive.google.com/file/d/1IQL5F0CKHoMQ_qkj1eugryM-S_ZfCOmE/view?usp=sharing): Certified Full Stack MERN Developer proficient in MongoDB, Express.js, React.js, and Node.js, adept at crafting dynamic and scalable web applications. Demonstrated expertise in frontend and backend technologies, equipped to architect and deploy comprehensive web solutions..
+
 
 <div>
-
  <br/>
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpraj15295&show_icons=true&locale=en&layout=compact" alt="pushpraj15295" width="350px"/></p>
 <br/>
 <p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpraj15295&show_icons=true&locale=en" alt="pushpraj15295" width="350px" /> &nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpraj15295&" alt="pushpraj15295" width="350px" /></p>
