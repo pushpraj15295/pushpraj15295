@@ -25,10 +25,6 @@ My adaptability and commitment to learning ensure a dynamic approach to projects
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpraj15295&show_icons=true&theme=react&hide_title=true) &nbsp;&nbsp;&nbsp;
 <img alt="raj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpraj15295&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-### 🛠️ Noteworthy Repositories
-- [React Webpack Configuration](https://github.com/pushpraj15295/react-webpack-configuration): A React Project, in which you'll discover how to build your own React app using webpack 5 as the compiler along with essential packages..
-<!--- [Project Name](Link): Utilizing React and Redux for [brief description].-->
-
 ### 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/pushpraj-patel-4006ba18a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pushpraj-patel-4006ba18a/" height="30" width="40" /></a>
