@@ -1,4 +1,4 @@
-## 👋 Hi there, I am Pushpraj.
+## 👋 Hi, I am Pushpraj.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pushpraj15295&color=blueviolet)
 
